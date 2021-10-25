@@ -2,7 +2,7 @@
 
 📚 Estudante de sistema de informação.
 
-🎮 Deselvolvedor de Jogos.
+🎮 Desenlvolvedor de Jogos.
 
 💻 Trabalho como Programador na **Ergon Sistemas**
 
