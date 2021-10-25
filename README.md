@@ -4,7 +4,7 @@
 
 Sou um S.I acadêmico, que gosta de criar protótipos de jogos nas horas vagas.
 
-## my skills currently 🧬:
+## Minhas Skills 🧬:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
