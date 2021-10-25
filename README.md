@@ -1,8 +1,8 @@
-### My name is `Walison Rodrigues`.
+### Meu nome é `Walison Rodrigues`👦.
 
-📚 information system student at UNITPAC.
+📚 Estudante de sistema de informação.
 
-I'm a S.I academic at UNITPAC, who likes to create game prototypes.
+Sou um S.I acadêmico, que gosta de criar protótipos de jogos nas horas vagas.
 
 ## my skills currently 🧬:
 
