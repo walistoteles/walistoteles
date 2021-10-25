@@ -1,6 +1,8 @@
 ### Meu nome é `Walison Rodrigues`👦.
 
 📚 Estudante de sistema de informação.
+🎮 Deselvolvedor de Jogos.
+💻 Trabalho como Programador na **Ergon Sistemas**
 
 Sou um S.I acadêmico, que gosta de criar protótipos de jogos nas horas vagas.
 
