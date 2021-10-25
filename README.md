@@ -1,5 +1,12 @@
 ### Meu nome é `Walison Rodrigues de Sousa`👦
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wali.png/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](twitch.tv/walirouco)
+[![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://only-wali.itch.io)
+
+
+
+
 📚 Estudante de sistema de informação.
 
 🎮 Desenvolvedor de Jogos.
@@ -8,27 +15,25 @@
 
 Sou um S.I acadêmico , que gosta de criar protótipos de jogos nas horas vagas 🕹.
 
-## Meus Links:
-
- <a href="https://only-wali.itch.io"><img src="https://img.icons8.com/dusk/64/000000/itch-io.png"  width="35px">&nbsp;&nbsp;&nbsp;&nbsp; </a> 
 
 
-## Minhas Skills 🧬:
+`Minhas Skills`🧬:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/nolan/64/unity.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/nolan/64/visual-studio-2019.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/nolan/64/adobe-photoshop.png"  width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/nolan/64/blender-3d.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/xamarin.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/nolan/64/audacity.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/nolan/64/fuse.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
+
+
+
+
+
+
 
 
 ## O que estou Estudando 📚:
 <img src="https://img.icons8.com/nolan/64/react-native.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/nolan/64/krita.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/nolan/64/substance-painter.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/nolan/64/unreal-engine.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/nolan/64/adobe-photoshop.png"  width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/nolan/64/fuse.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/nolan/64/blender-3d.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
