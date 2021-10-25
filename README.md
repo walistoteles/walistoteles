@@ -8,6 +8,11 @@
 
 Sou um S.I acadêmico , que gosta de criar protótipos de jogos nas horas vagas 🕹.
 
+## Meus Links:
+
+ <a href="https://only-wali.itch.io"><img src="https://img.icons8.com/dusk/64/000000/itch-io.png"  width="35px">&nbsp;&nbsp;&nbsp;&nbsp; </a> 
+
+
 ## Minhas Skills 🧬:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,3 +31,4 @@ Sou um S.I acadêmico , que gosta de criar protótipos de jogos nas horas vagas 
 <img src="https://img.icons8.com/nolan/64/substance-painter.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/nolan/64/unreal-engine.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+
