@@ -7,7 +7,6 @@
 
 🎮 Desenvolvedor de Aplicativos e Jogos. 📱
 
-💻 Trabalho como Programador na **Ergon Sistemas**
 
 Sou um S.I acadêmico , que gosta de criar protótipos de jogos nas horas vagas 🕹.
 
